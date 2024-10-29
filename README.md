@@ -1,2 +1,7 @@
-# PHPUnit-Test
-This project's testing suite uses PHPUnit to ensure that each application component functions correctly and interacts with each other as expected. Testing includes Unit Tests and Integration Tests, designed to detect and address problems early, improving overall project quality and reliability.
+# Project Testing Suite
+
+This repository contains the testing suite for the project, built with PHPUnit. The tests cover both unit and integration testing for critical components of the application to ensure functionality, reliability, and maintainability.
+
+## Getting Started
+
+To run the PHPUnit tests, make sure you have PHP and PHPUnit installed. Clone the repository and navigate to the project directory:
